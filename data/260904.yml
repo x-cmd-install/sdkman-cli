@@ -7,7 +7,7 @@ about:
   head: 1ceb412
   archived: false
   latestVersion: latest
-  collectedAt: 2026-09-04T19:33:42Z
+  collectedAt: 2026-09-04T20:57:53Z
 timeline:
   created: 2012-08-27
   lastCommit: 2026-08-27
@@ -84,6 +84,49 @@ total:
   openIssue: 79
   commit: 1722
 ---
+path: /home/runner/.x-repo/github.com/sdkman/sdkman-cli
+collectedAt: 2026-09-04T20:57:55Z
+loc:
+  Groovy:
+    code: 1803
+    comments: 42
+    blanks: 429
+    files: 31
+  Sh:
+    code: 1390
+    comments: 453
+    blanks: 334
+    files: 27
+  Gherkin:
+    code: 1147
+    comments: 15
+    blanks: 189
+    files: 23
+  Dockerfile:
+    code: 7
+    comments: 1
+    blanks: 3
+    files: 1
+  Pan:
+    code: 2
+    comments: 1
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 263
+    blanks: 137
+    files: 5
+  Text:
+    code: 0
+    comments: 28
+    blanks: 9
+    files: 1
+total:
+  code: 4355
+  comments: 803
+  blanks: 1102
+  files: 89
 ---
 date: "2026-08-24"
 repo:
