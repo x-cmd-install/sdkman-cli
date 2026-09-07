@@ -5,13 +5,13 @@ about:
   head: 1ceb412
   archived: false
   latestVersion: "latest"
-  collectedAt: 2026-09-07T05:54:18Z
+  collectedAt: 2026-09-07T18:34:11Z
 timeline:
   created: 2012-08-27
   lastCommit: 2026-08-27
   lastRelease: 2026-08-24
 popularity:
-  star: 6840
+  star: 6843
   watcher: 114
   fork: 644
   release: 44
@@ -83,7 +83,7 @@ total:
   commit: 1722
 ---
 path: /home/runner/.x-repo/github.com/sdkman/sdkman-cli
-collectedAt: 2026-09-07T05:54:20Z
+collectedAt: 2026-09-07T18:34:12Z
 loc:
   Groovy:
     code: 1803
@@ -248,7 +248,7 @@ checks:
       - 'Warn: 0 commits out of 27 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:54:22+00:00
+  collectedAt: 2026-09-07T18:34:13+00:00
   platform:
     darwin/arm64:
       name:  null
