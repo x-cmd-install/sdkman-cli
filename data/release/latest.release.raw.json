@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 27484,
       "digest": "sha256:7ef83583a6986351ea8c86b8494a885fcae91a2fbfac91662bca7ea4f72bd230",
-      "download_count": 1498165,
+      "download_count": 1503942,
       "created_at": "2026-05-04T17:09:42Z",
       "updated_at": "2026-05-04T17:09:42Z",
       "browser_download_url": "https://github.com/sdkman/sdkman-cli/releases/download/5.23.0/sdkman-cli-5.23.0.zip"
