@@ -7,7 +7,7 @@ about:
   latestVersion: "latest"
   latestRelease: "5.23.0"
   latestPrerelease: "latest"
-  collectedAt: 2026-09-10T18:05:07Z
+  collectedAt: 2026-09-10T21:49:14Z
 timeline:
   created: 2012-08-27
   lastCommit: 2026-08-27
@@ -17,7 +17,7 @@ timeline:
 popularity:
   star: 6844
   watcher: 114
-  fork: 646
+  fork: 645
   release: 44
   contributor: 94
   pullRequest: 390
@@ -87,7 +87,7 @@ total:
   commit: 1722
 ---
 path: /home/runner/.x-repo/github.com/sdkman/sdkman-cli
-collectedAt: 2026-09-10T18:05:09Z
+collectedAt: 2026-09-10T21:49:16Z
 loc:
   Groovy:
     code: 1803

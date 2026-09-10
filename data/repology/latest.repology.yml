@@ -1,0 +1,21 @@
+- repo: aur
+  srcname: sdkman-bin
+  binname: sdkman-bin
+  visiblename: sdkman-bin
+  version: 5.22.5
+  origversion: 5.22.5-3
+  status: newest
+  summary: The Software Development Kit Manager Command Line Interface
+  maintainers:
+    - rintim@aur
+  licenses:
+    - Apache-2.0
+- repo: chromebrew
+  srcname: sdkman
+  visiblename: sdkman
+  version: 5.18.2
+  origversion: null
+  status: outdated
+  summary: Software Development Kit Manager – your reliable companion for effortlessly managing multiple Software Development Kits.
+  licenses:
+    - Apache-2.0
