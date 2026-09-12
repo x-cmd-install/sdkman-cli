@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 88,
       "digest": "sha256:e836c0948b4c03c7cb8bd560c4f56f35e56e80535191ca2876b67c82c0d57f40",
-      "download_count": 312,
+      "download_count": 316,
       "created_at": "2026-05-04T17:09:41Z",
       "updated_at": "2026-05-04T17:09:42Z",
       "browser_download_url": "https://github.com/sdkman/sdkman-cli/releases/download/5.23.0/checksums_sha256.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 27484,
       "digest": "sha256:7ef83583a6986351ea8c86b8494a885fcae91a2fbfac91662bca7ea4f72bd230",
-      "download_count": 1551875,
+      "download_count": 1556414,
       "created_at": "2026-05-04T17:09:42Z",
       "updated_at": "2026-05-04T17:09:42Z",
       "browser_download_url": "https://github.com/sdkman/sdkman-cli/releases/download/5.23.0/sdkman-cli-5.23.0.zip"
