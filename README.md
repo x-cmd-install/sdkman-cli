@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `latest` (2026-05-04)
-- **Last commit**: 2026-08-27
+- **Last commit**: 2026-09-11
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 6,844 · **Forks**: 645 · **Open issues**: 974 · **Contributors**: 94
+- **Stars**: 6,844 · **Forks**: 645 · **Open issues**: 974 · **Contributors**: 95
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 251 · **Open PRs**: 23 · **Closed issues**: 895 · **Open issues**: 79 · **Commits**: 1722
+- **Releases**: 44 · **Merged PRs**: 252 · **Open PRs**: 22 · **Closed issues**: 896 · **Open issues**: 78 · **Commits**: 1723
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 1 | 3 | 1 | 2 | 2 | 3 |
-| last60d | 2026-07-13 | 1 | 3 | 2 | 3 | 3 | 4 |
-| 90d | 2026-06-13 | 1 | 7 | 2 | 4 | 3 | 12 |
-| last180d | 2026-03-15 | 8 | 22 | 2 | 12 | 3 | 37 |
-| 360d | 2025-09-16 | 9 | 33 | 3 | 30 | 4 | 60 |
-| last720d | 2024-09-21 | 11 | 36 | 5 | 60 | 6 | 77 |
+| 30d | 2026-08-13 | 1 | 4 | 0 | 3 | 1 | 4 |
+| last60d | 2026-07-14 | 1 | 4 | 1 | 4 | 2 | 5 |
+| 90d | 2026-06-14 | 1 | 8 | 1 | 5 | 2 | 13 |
+| last180d | 2026-03-16 | 8 | 22 | 1 | 12 | 2 | 38 |
+| 360d | 2025-09-17 | 9 | 34 | 2 | 30 | 3 | 61 |
+| last720d | 2024-09-22 | 11 | 37 | 4 | 61 | 5 | 78 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for sdkman-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T18:45:05Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T05:53:00Z._
