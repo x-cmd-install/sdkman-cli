@@ -48,7 +48,7 @@ x install sdkman-cli
 
 ## 流行度
 
-- **Star**: 6,847 · **Fork**: 645 · **开放 issue**: 974 · **贡献者**: 95
+- **Star**: 6,848 · **Fork**: 645 · **开放 issue**: 974 · **贡献者**: 95
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install sdkman-cli
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 4 | 0 | 3 | 1 | 4 |
-| last60d | 2026-07-15 | 1 | 4 | 1 | 4 | 2 | 5 |
-| 90d | 2026-06-15 | 1 | 7 | 1 | 5 | 2 | 13 |
-| last180d | 2026-03-17 | 8 | 20 | 1 | 10 | 2 | 38 |
-| 360d | 2025-09-18 | 9 | 34 | 2 | 30 | 3 | 61 |
-| last720d | 2024-09-23 | 11 | 37 | 4 | 61 | 5 | 78 |
+| 30d | 2026-08-15 | 1 | 4 | 0 | 3 | 1 | 4 |
+| last60d | 2026-07-16 | 1 | 4 | 1 | 4 | 2 | 5 |
+| 90d | 2026-06-16 | 1 | 7 | 1 | 5 | 2 | 10 |
+| last180d | 2026-03-18 | 8 | 20 | 1 | 10 | 2 | 32 |
+| 360d | 2025-09-19 | 9 | 34 | 2 | 30 | 3 | 61 |
+| last720d | 2024-09-24 | 11 | 37 | 4 | 61 | 5 | 78 |
 
 ## Release 资产
 
@@ -71,10 +71,6 @@ x install sdkman-cli
 |------|-----:|----------|
 | [checksums_sha256.txt](https://github.com/sdkman/sdkman-cli/releases/download/5.23.0/checksums_sha256.txt) | 88 B | `other` |
 | [sdkman-cli-5.23.0.zip](https://github.com/sdkman/sdkman-cli/releases/download/5.23.0/sdkman-cli-5.23.0.zip) | 26.8 KiB | `other` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/sdkman-cli) 上共有 **2** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
 
 ## 改进这些数据
 
@@ -85,4 +81,4 @@ sdkman-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T06:08:01Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T06:46:43Z._
