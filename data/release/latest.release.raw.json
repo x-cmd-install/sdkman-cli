@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/sdkman/sdkman-cli/releases/317319408",
-  "assets_url": "https://api.github.com/repos/sdkman/sdkman-cli/releases/317319408/assets",
-  "upload_url": "https://uploads.github.com/repos/sdkman/sdkman-cli/releases/317319408/assets{?name,label}",
-  "html_url": "https://github.com/sdkman/sdkman-cli/releases/tag/5.23.0",
-  "id": 317319408,
+  "url": "https://api.github.com/repos/sdkman/sdkman-cli/releases/392027033",
+  "assets_url": "https://api.github.com/repos/sdkman/sdkman-cli/releases/392027033/assets",
+  "upload_url": "https://uploads.github.com/repos/sdkman/sdkman-cli/releases/392027033/assets{?name,label}",
+  "html_url": "https://github.com/sdkman/sdkman-cli/releases/tag/5.23.1",
+  "id": 392027033,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAFUKm84S6ejw",
-  "tag_name": "5.23.0",
+  "node_id": "RE_kwDOAFUKm84XXduZ",
+  "tag_name": "5.23.1",
   "target_commitish": "master",
-  "name": "Release 5.23.0",
+  "name": "Release 5.23.1",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-05-04T16:41:31Z",
-  "updated_at": "2026-05-04T20:27:20Z",
-  "published_at": "2026-05-04T17:09:41Z",
+  "created_at": "2026-09-11T18:51:20Z",
+  "updated_at": "2026-09-19T10:22:04Z",
+  "published_at": "2026-09-19T10:22:03Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/sdkman/sdkman-cli/releases/assets/411981808",
-      "id": 411981808,
-      "node_id": "RA_kwDOAFUKm84Yjlfw",
+      "url": "https://api.github.com/repos/sdkman/sdkman-cli/releases/assets/574554725",
+      "id": 574554725,
+      "node_id": "RA_kwDOAFUKm84iPwJl",
       "name": "checksums_sha256.txt",
       "label": "",
       "uploader": {
@@ -66,17 +66,17 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 88,
-      "digest": "sha256:e836c0948b4c03c7cb8bd560c4f56f35e56e80535191ca2876b67c82c0d57f40",
-      "download_count": 337,
-      "created_at": "2026-05-04T17:09:41Z",
-      "updated_at": "2026-05-04T17:09:42Z",
-      "browser_download_url": "https://github.com/sdkman/sdkman-cli/releases/download/5.23.0/checksums_sha256.txt"
+      "digest": "sha256:797c7c2bc4ec30bbff986d4874da7db4bae2f3c041914d00653d023a2bc6a90e",
+      "download_count": 7,
+      "created_at": "2026-09-19T10:22:04Z",
+      "updated_at": "2026-09-19T10:22:04Z",
+      "browser_download_url": "https://github.com/sdkman/sdkman-cli/releases/download/5.23.1/checksums_sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/sdkman/sdkman-cli/releases/assets/411981813",
-      "id": 411981813,
-      "node_id": "RA_kwDOAFUKm84Yjlf1",
-      "name": "sdkman-cli-5.23.0.zip",
+      "url": "https://api.github.com/repos/sdkman/sdkman-cli/releases/assets/574554739",
+      "id": 574554739,
+      "node_id": "RA_kwDOAFUKm84iPwJz",
+      "name": "sdkman-cli-5.23.1.zip",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -101,28 +101,15 @@
       },
       "content_type": "application/zip",
       "state": "uploaded",
-      "size": 27484,
-      "digest": "sha256:7ef83583a6986351ea8c86b8494a885fcae91a2fbfac91662bca7ea4f72bd230",
-      "download_count": 1632519,
-      "created_at": "2026-05-04T17:09:42Z",
-      "updated_at": "2026-05-04T17:09:42Z",
-      "browser_download_url": "https://github.com/sdkman/sdkman-cli/releases/download/5.23.0/sdkman-cli-5.23.0.zip"
+      "size": 27832,
+      "digest": "sha256:d6a746388a4bf1dfd9254fd5ad160b51fb987daacecba93bffe27761928e5350",
+      "download_count": 7023,
+      "created_at": "2026-09-19T10:22:04Z",
+      "updated_at": "2026-09-19T10:22:04Z",
+      "browser_download_url": "https://github.com/sdkman/sdkman-cli/releases/download/5.23.1/sdkman-cli-5.23.1.zip"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/sdkman/sdkman-cli/tarball/5.23.0",
-  "zipball_url": "https://api.github.com/repos/sdkman/sdkman-cli/zipball/5.23.0",
-  "body": "## Security patch that removes exploitable `eval`\r\n\r\nSecurity Advisory raised and fixed by @iamharshitgupta:\r\nhttps://github.com/sdkman/sdkman-cli/security/advisories/GHSA-jh7h-4x3r-f89r\r\n\r\n## Changelog\r\n\r\n- 691f976 Remove eval from checksum verification\r\n\r\n## Contributors\r\nWe'd like to thank the following people for their contributions:\r\n- @iamharshitgupta",
-  "reactions": {
-    "url": "https://api.github.com/repos/sdkman/sdkman-cli/releases/317319408/reactions",
-    "total_count": 1,
-    "+1": 0,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 0,
-    "confused": 0,
-    "heart": 0,
-    "rocket": 1,
-    "eyes": 0
-  },
-  "mentions_count": 1
+  "tarball_url": "https://api.github.com/repos/sdkman/sdkman-cli/tarball/5.23.1",
+  "zipball_url": "https://api.github.com/repos/sdkman/sdkman-cli/zipball/5.23.1",
+  "body": "## Changelog\n\n- cecace4 Fix #1561 by making the PATH entry replacement regex more expressive (#1562)\n- 1ceb412 chore(deps): bump actions/setup-java from 5 to 6 (#1558)\n- 320cec1 Revert \"fix: install tarballs served through the renaming post-install hook (…\"\n- 8e6ca8f fix: install tarballs served through the renaming post-install hook (#1555)\n- f02e5de fix(list): percent-encode + to %2B in versions query\n- 1c8f4cb chore(deps): bump actions/setup-java from 4 to 5 (#1539)\n- a4f3936 Bump kentaro-m/auto-assign-action from 1.2.5 to 2.0.2 (#1540)\n- f92000f chore(deps): bump actions/checkout from 3 to 7 (#1547)\n- 85dcaa0 fix: pass pr_ci_workflow input to digest caller\n- dec2d95 ci: add Claude Code workflow\n- 22f6e4b feat: add fork-PR triage and dependabot digest callers\n- c2e2ba5 feat: repoint notification callers to renamed reusables\n- b79b2f6 refactor: rename notification stubs to colon-style filenames\n- aa43b20 chore: stagger Dependabot schedule and group minor/patch updates\n\n\n## Contributors\nWe'd like to thank the following people for their contributions:\n- Claude Opus 5 (1M context)\n- Gianluca Costa\n- Marco Vermeulen\n- Pasha Finkelshteyn\n- chloe41427[bot]\n- dependabot[bot]"
 }
