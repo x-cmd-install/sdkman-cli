@@ -4,7 +4,7 @@
 
 The SDKMAN! Command Line Interface
 
-![sdkman-cli](https://repo.x-cmd.io/sdkman-cli.svg)
+[![x-cmd/install — sdkman-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/sdkman-cli.svg)](https://x-cmd.com/install/sdkman-cli)
 
 ## Install
 
@@ -42,35 +42,35 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `latest` (2026-05-04)
+- **Latest**: `5.23.1` (2026-09-19)
 - **Last commit**: 2026-09-11
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 6,851 · **Forks**: 646 · **Open issues**: 974 · **Contributors**: 95
+- **Stars**: 6,855 · **Forks**: 646 · **Open issues**: 974 · **Contributors**: 95
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 252 · **Open PRs**: 22 · **Closed issues**: 896 · **Open issues**: 78 · **Commits**: 1723
+- **Releases**: 45 · **Merged PRs**: 252 · **Open PRs**: 22 · **Closed issues**: 895 · **Open issues**: 79 · **Commits**: 1723
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 4 | 0 | 3 | 1 | 4 |
-| last60d | 2026-07-20 | 1 | 4 | 1 | 4 | 2 | 5 |
-| 90d | 2026-06-20 | 1 | 7 | 1 | 5 | 2 | 10 |
-| last180d | 2026-03-22 | 8 | 20 | 1 | 10 | 2 | 32 |
-| 360d | 2025-09-23 | 9 | 34 | 2 | 29 | 3 | 61 |
-| last720d | 2024-09-28 | 11 | 37 | 4 | 60 | 5 | 78 |
+| 30d | 2026-08-21 | 2 | 4 | 0 | 2 | 2 | 4 |
+| last60d | 2026-07-22 | 2 | 4 | 1 | 3 | 3 | 5 |
+| 90d | 2026-06-22 | 2 | 7 | 1 | 4 | 3 | 10 |
+| last180d | 2026-03-24 | 8 | 18 | 1 | 8 | 3 | 32 |
+| 360d | 2025-09-25 | 10 | 34 | 2 | 28 | 4 | 61 |
+| last720d | 2024-09-30 | 12 | 37 | 4 | 59 | 6 | 78 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums_sha256.txt](https://github.com/sdkman/sdkman-cli/releases/download/5.23.0/checksums_sha256.txt) | 88 B | `other` |
-| [sdkman-cli-5.23.0.zip](https://github.com/sdkman/sdkman-cli/releases/download/5.23.0/sdkman-cli-5.23.0.zip) | 26.8 KiB | `other` |
+| [checksums_sha256.txt](https://github.com/sdkman/sdkman-cli/releases/download/5.23.1/checksums_sha256.txt) | 88 B | `other` |
+| [sdkman-cli-5.23.1.zip](https://github.com/sdkman/sdkman-cli/releases/download/5.23.1/sdkman-cli-5.23.1.zip) | 27.2 KiB | `other` |
 
 ## Improve this data
 
@@ -81,4 +81,4 @@ Install metadata for sdkman-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:26:13Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:16:51Z._
