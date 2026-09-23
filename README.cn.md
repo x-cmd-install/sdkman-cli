@@ -4,7 +4,7 @@
 
 The SDKMAN! Command Line Interface
 
-[![x-cmd/install — sdkman-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/sdkman-cli.svg?lang=zh)](https://x-cmd.com/install/sdkman-cli)
+[![x-cmd/install — sdkman-cli Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/sdkman-cli.svg?lang=zh)](https://x-cmd.com/install/sdkman-cli)
 
 ## 安装
 
@@ -48,22 +48,22 @@ x install sdkman-cli
 
 ## 流行度
 
-- **Star**: 6,858 · **Fork**: 646 · **开放 issue**: 975 · **贡献者**: 95
+- **Star**: 6,858 · **Fork**: 646 · **开放 issue**: 976 · **贡献者**: 95
 
 ## 累计统计
 
-- **发布数**: 45 · **已合并 PR**: 252 · **开放 PR**: 22 · **已关闭 issue**: 897 · **开放 issue**: 78 · **提交数**: 1723
+- **发布数**: 45 · **已合并 PR**: 252 · **开放 PR**: 22 · **已关闭 issue**: 897 · **开放 issue**: 79 · **提交数**: 1723
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 4 | 0 | 4 | 1 | 1 |
-| last60d | 2026-07-24 | 2 | 4 | 1 | 4 | 2 | 5 |
-| 90d | 2026-06-24 | 2 | 5 | 1 | 6 | 2 | 5 |
-| last180d | 2026-03-26 | 8 | 17 | 1 | 10 | 2 | 18 |
-| 360d | 2025-09-27 | 10 | 34 | 2 | 29 | 3 | 61 |
-| last720d | 2024-10-02 | 12 | 37 | 4 | 61 | 5 | 78 |
+| 30d | 2026-08-24 | 2 | 2 | 0 | 3 | 2 | 1 |
+| last60d | 2026-07-25 | 2 | 4 | 1 | 4 | 3 | 5 |
+| 90d | 2026-06-25 | 2 | 4 | 1 | 6 | 3 | 5 |
+| last180d | 2026-03-27 | 8 | 12 | 1 | 10 | 3 | 18 |
+| 360d | 2025-09-28 | 10 | 34 | 2 | 29 | 4 | 61 |
+| last720d | 2024-10-03 | 12 | 37 | 4 | 61 | 6 | 78 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ sdkman-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:17:36Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:28:33Z._
