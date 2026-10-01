@@ -30,7 +30,7 @@ x install sdkman-cli
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 3/11 approved changesets -- score normalized to 2
+- **Code-Review** (3/10) — Found 4/12 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -48,22 +48,22 @@ x install sdkman-cli
 
 ## 流行度
 
-- **Star**: 6,860 · **Fork**: 646 · **开放 issue**: 978 · **贡献者**: 96
+- **Star**: 6,862 · **Fork**: 646 · **开放 issue**: 980 · **贡献者**: 96
 
 ## 累计统计
 
-- **发布数**: 45 · **已合并 PR**: 253 · **开放 PR**: 21 · **已关闭 issue**: 902 · **开放 issue**: 76 · **提交数**: 1724
+- **发布数**: 45 · **已合并 PR**: 253 · **开放 PR**: 21 · **已关闭 issue**: 903 · **开放 issue**: 77 · **提交数**: 1724
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 2 | 1 | 0 | 6 | 0 | 2 |
-| last60d | 2026-08-01 | 2 | 5 | 0 | 9 | 0 | 6 |
-| 90d | 2026-07-02 | 2 | 5 | 0 | 11 | 0 | 6 |
-| last180d | 2026-04-03 | 4 | 13 | 0 | 15 | 0 | 18 |
-| 360d | 2025-10-05 | 10 | 35 | 0 | 34 | 0 | 62 |
-| last720d | 2024-10-10 | 12 | 38 | 1 | 65 | 3 | 79 |
+| 30d | 2026-09-01 | 2 | 1 | 0 | 7 | 1 | 2 |
+| last60d | 2026-08-02 | 2 | 5 | 0 | 10 | 1 | 6 |
+| 90d | 2026-07-03 | 2 | 5 | 0 | 12 | 1 | 6 |
+| last180d | 2026-04-04 | 4 | 13 | 0 | 15 | 1 | 18 |
+| 360d | 2025-10-06 | 10 | 35 | 0 | 35 | 1 | 62 |
+| last720d | 2024-10-11 | 12 | 38 | 1 | 65 | 4 | 79 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ sdkman-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260930.yml` · 2026-09-30T06:41:03Z._
+_数据快照: `data/card/261001.yml` · 2026-10-01T07:00:20Z._
