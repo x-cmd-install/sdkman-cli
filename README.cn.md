@@ -26,7 +26,7 @@ x install sdkman-cli
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.6 / 10**
+总评分: **4.7 / 10**
 
 评分最低的几项:
 
@@ -42,35 +42,35 @@ x install sdkman-cli
 
 ## 发布
 
-- **最新版本**: `latest` (2026-09-19)
+- **最新版本**: `5.23.2` (2026-10-06)
 - **最近提交**: 2026-09-27
 - **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 6,865 · **Fork**: 646 · **开放 issue**: 980 · **贡献者**: 96
+- **Star**: 6,864 · **Fork**: 646 · **开放 issue**: 981 · **贡献者**: 96
 
 ## 累计统计
 
-- **发布数**: 45 · **已合并 PR**: 253 · **开放 PR**: 21 · **已关闭 issue**: 904 · **开放 issue**: 76 · **提交数**: 1724
+- **发布数**: 46 · **已合并 PR**: 253 · **开放 PR**: 21 · **已关闭 issue**: 905 · **开放 issue**: 76 · **提交数**: 1724
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 2 | 1 | 1 | 8 | 0 | 2 |
-| last60d | 2026-08-07 | 2 | 5 | 1 | 10 | 0 | 5 |
-| 90d | 2026-07-08 | 2 | 5 | 1 | 13 | 0 | 6 |
-| last180d | 2026-04-09 | 4 | 13 | 1 | 16 | 0 | 18 |
-| 360d | 2025-10-11 | 10 | 35 | 1 | 35 | 0 | 62 |
-| last720d | 2024-10-16 | 12 | 38 | 2 | 65 | 3 | 79 |
+| 30d | 2026-09-07 | 3 | 1 | 1 | 9 | 0 | 2 |
+| last60d | 2026-08-08 | 3 | 4 | 1 | 11 | 0 | 5 |
+| 90d | 2026-07-09 | 3 | 5 | 1 | 14 | 0 | 6 |
+| last180d | 2026-04-10 | 5 | 13 | 1 | 17 | 0 | 18 |
+| 360d | 2025-10-12 | 11 | 35 | 1 | 36 | 0 | 62 |
+| last720d | 2024-10-17 | 13 | 38 | 2 | 66 | 3 | 79 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums_sha256.txt](https://github.com/sdkman/sdkman-cli/releases/download/5.23.1/checksums_sha256.txt) | 88 B | `other` |
-| [sdkman-cli-5.23.1.zip](https://github.com/sdkman/sdkman-cli/releases/download/5.23.1/sdkman-cli-5.23.1.zip) | 27.2 KiB | `other` |
+| [checksums_sha256.txt](https://github.com/sdkman/sdkman-cli/releases/download/5.23.2/checksums_sha256.txt) | 88 B | `other` |
+| [sdkman-cli-5.23.2.zip](https://github.com/sdkman/sdkman-cli/releases/download/5.23.2/sdkman-cli-5.23.2.zip) | 27.3 KiB | `other` |
 
 ## 改进这些数据
 
@@ -81,4 +81,4 @@ sdkman-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261006.yml` · 2026-10-06T07:37:55Z._
+_数据快照: `data/card/261007.yml` · 2026-10-07T07:04:41Z._

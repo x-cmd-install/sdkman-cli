@@ -26,7 +26,7 @@ Total: **4,349** lines of code across **83** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.6 / 10**
+Overall score: **4.7 / 10**
 
 Lowest-scoring checks:
 
@@ -42,35 +42,35 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `latest` (2026-09-19)
+- **Latest**: `5.23.2` (2026-10-06)
 - **Last commit**: 2026-09-27
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 6,865 · **Forks**: 646 · **Open issues**: 980 · **Contributors**: 96
+- **Stars**: 6,864 · **Forks**: 646 · **Open issues**: 981 · **Contributors**: 96
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 253 · **Open PRs**: 21 · **Closed issues**: 904 · **Open issues**: 76 · **Commits**: 1724
+- **Releases**: 46 · **Merged PRs**: 253 · **Open PRs**: 21 · **Closed issues**: 905 · **Open issues**: 76 · **Commits**: 1724
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 2 | 1 | 1 | 8 | 0 | 2 |
-| last60d | 2026-08-07 | 2 | 5 | 1 | 10 | 0 | 5 |
-| 90d | 2026-07-08 | 2 | 5 | 1 | 13 | 0 | 6 |
-| last180d | 2026-04-09 | 4 | 13 | 1 | 16 | 0 | 18 |
-| 360d | 2025-10-11 | 10 | 35 | 1 | 35 | 0 | 62 |
-| last720d | 2024-10-16 | 12 | 38 | 2 | 65 | 3 | 79 |
+| 30d | 2026-09-07 | 3 | 1 | 1 | 9 | 0 | 2 |
+| last60d | 2026-08-08 | 3 | 4 | 1 | 11 | 0 | 5 |
+| 90d | 2026-07-09 | 3 | 5 | 1 | 14 | 0 | 6 |
+| last180d | 2026-04-10 | 5 | 13 | 1 | 17 | 0 | 18 |
+| 360d | 2025-10-12 | 11 | 35 | 1 | 36 | 0 | 62 |
+| last720d | 2024-10-17 | 13 | 38 | 2 | 66 | 3 | 79 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums_sha256.txt](https://github.com/sdkman/sdkman-cli/releases/download/5.23.1/checksums_sha256.txt) | 88 B | `other` |
-| [sdkman-cli-5.23.1.zip](https://github.com/sdkman/sdkman-cli/releases/download/5.23.1/sdkman-cli-5.23.1.zip) | 27.2 KiB | `other` |
+| [checksums_sha256.txt](https://github.com/sdkman/sdkman-cli/releases/download/5.23.2/checksums_sha256.txt) | 88 B | `other` |
+| [sdkman-cli-5.23.2.zip](https://github.com/sdkman/sdkman-cli/releases/download/5.23.2/sdkman-cli-5.23.2.zip) | 27.3 KiB | `other` |
 
 ## Improve this data
 
@@ -81,4 +81,4 @@ Install metadata for sdkman-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T07:37:55Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T07:04:40Z._
