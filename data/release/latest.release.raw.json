@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/sdkman/sdkman-cli/releases/392027033",
-  "assets_url": "https://api.github.com/repos/sdkman/sdkman-cli/releases/392027033/assets",
-  "upload_url": "https://uploads.github.com/repos/sdkman/sdkman-cli/releases/392027033/assets{?name,label}",
-  "html_url": "https://github.com/sdkman/sdkman-cli/releases/tag/5.23.1",
-  "id": 392027033,
+  "url": "https://api.github.com/repos/sdkman/sdkman-cli/releases/404516171",
+  "assets_url": "https://api.github.com/repos/sdkman/sdkman-cli/releases/404516171/assets",
+  "upload_url": "https://uploads.github.com/repos/sdkman/sdkman-cli/releases/404516171/assets{?name,label}",
+  "html_url": "https://github.com/sdkman/sdkman-cli/releases/tag/5.23.2",
+  "id": 404516171,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAFUKm84XXduZ",
-  "tag_name": "5.23.1",
+  "node_id": "RE_kwDOAFUKm84YHG1L",
+  "tag_name": "5.23.2",
   "target_commitish": "master",
-  "name": "Release 5.23.1",
+  "name": "Release 5.23.2",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-11T18:51:20Z",
-  "updated_at": "2026-09-19T10:22:04Z",
-  "published_at": "2026-09-19T10:22:03Z",
+  "created_at": "2026-09-27T12:48:04Z",
+  "updated_at": "2026-10-06T09:08:39Z",
+  "published_at": "2026-10-06T09:08:38Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/sdkman/sdkman-cli/releases/assets/574554725",
-      "id": 574554725,
-      "node_id": "RA_kwDOAFUKm84iPwJl",
+      "url": "https://api.github.com/repos/sdkman/sdkman-cli/releases/assets/615027447",
+      "id": 615027447,
+      "node_id": "RA_kwDOAFUKm84kqJL3",
       "name": "checksums_sha256.txt",
       "label": "",
       "uploader": {
@@ -66,17 +66,17 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 88,
-      "digest": "sha256:797c7c2bc4ec30bbff986d4874da7db4bae2f3c041914d00653d023a2bc6a90e",
-      "download_count": 170,
-      "created_at": "2026-09-19T10:22:04Z",
-      "updated_at": "2026-09-19T10:22:04Z",
-      "browser_download_url": "https://github.com/sdkman/sdkman-cli/releases/download/5.23.1/checksums_sha256.txt"
+      "digest": "sha256:f35fe7c092b1330f9cd506c2fa2996ef3d01b948443f362e647b0d7230f83764",
+      "download_count": 6,
+      "created_at": "2026-10-06T09:08:38Z",
+      "updated_at": "2026-10-06T09:08:38Z",
+      "browser_download_url": "https://github.com/sdkman/sdkman-cli/releases/download/5.23.2/checksums_sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/sdkman/sdkman-cli/releases/assets/574554739",
-      "id": 574554739,
-      "node_id": "RA_kwDOAFUKm84iPwJz",
-      "name": "sdkman-cli-5.23.1.zip",
+      "url": "https://api.github.com/repos/sdkman/sdkman-cli/releases/assets/615027474",
+      "id": 615027474,
+      "node_id": "RA_kwDOAFUKm84kqJMS",
+      "name": "sdkman-cli-5.23.2.zip",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -101,15 +101,15 @@
       },
       "content_type": "application/zip",
       "state": "uploaded",
-      "size": 27832,
-      "digest": "sha256:d6a746388a4bf1dfd9254fd5ad160b51fb987daacecba93bffe27761928e5350",
-      "download_count": 200818,
-      "created_at": "2026-09-19T10:22:04Z",
-      "updated_at": "2026-09-19T10:22:04Z",
-      "browser_download_url": "https://github.com/sdkman/sdkman-cli/releases/download/5.23.1/sdkman-cli-5.23.1.zip"
+      "size": 27975,
+      "digest": "sha256:d5ab363da944ad803b42470f73dd1b7beabad7d7b18f9eb2252ed485aabefbb5",
+      "download_count": 13526,
+      "created_at": "2026-10-06T09:08:39Z",
+      "updated_at": "2026-10-06T09:08:39Z",
+      "browser_download_url": "https://github.com/sdkman/sdkman-cli/releases/download/5.23.2/sdkman-cli-5.23.2.zip"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/sdkman/sdkman-cli/tarball/5.23.1",
-  "zipball_url": "https://api.github.com/repos/sdkman/sdkman-cli/zipball/5.23.1",
-  "body": "## Changelog\n\n- cecace4 Fix #1561 by making the PATH entry replacement regex more expressive (#1562)\n- 1ceb412 chore(deps): bump actions/setup-java from 5 to 6 (#1558)\n- 320cec1 Revert \"fix: install tarballs served through the renaming post-install hook (…\"\n- 8e6ca8f fix: install tarballs served through the renaming post-install hook (#1555)\n- f02e5de fix(list): percent-encode + to %2B in versions query\n- 1c8f4cb chore(deps): bump actions/setup-java from 4 to 5 (#1539)\n- a4f3936 Bump kentaro-m/auto-assign-action from 1.2.5 to 2.0.2 (#1540)\n- f92000f chore(deps): bump actions/checkout from 3 to 7 (#1547)\n- 85dcaa0 fix: pass pr_ci_workflow input to digest caller\n- dec2d95 ci: add Claude Code workflow\n- 22f6e4b feat: add fork-PR triage and dependabot digest callers\n- c2e2ba5 feat: repoint notification callers to renamed reusables\n- b79b2f6 refactor: rename notification stubs to colon-style filenames\n- aa43b20 chore: stagger Dependabot schedule and group minor/patch updates\n\n\n## Contributors\nWe'd like to thank the following people for their contributions:\n- Claude Opus 5 (1M context)\n- Gianluca Costa\n- Marco Vermeulen\n- Pasha Finkelshteyn\n- chloe41427[bot]\n- dependabot[bot]"
+  "tarball_url": "https://api.github.com/repos/sdkman/sdkman-cli/tarball/5.23.2",
+  "zipball_url": "https://api.github.com/repos/sdkman/sdkman-cli/zipball/5.23.2",
+  "body": "## Changelog\n\n- 66767df fix: avoid bash 4-only uppercase expansion on macOS bash 3.2 (#1553)\n\n\n## Contributors\nWe'd like to thank the following people for their contributions:\n- fudian"
 }
