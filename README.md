@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 3 | 0 | 1 | 9 | 1 | 2 |
-| last60d | 2026-08-12 | 3 | 4 | 1 | 13 | 1 | 5 |
-| 90d | 2026-07-13 | 3 | 5 | 1 | 15 | 1 | 6 |
-| last180d | 2026-04-14 | 5 | 13 | 1 | 19 | 1 | 18 |
-| 360d | 2025-10-16 | 11 | 35 | 1 | 38 | 1 | 62 |
-| last720d | 2024-10-21 | 13 | 38 | 2 | 66 | 4 | 79 |
+| 30d | 2026-09-12 | 3 | 0 | 1 | 9 | 1 | 1 |
+| last60d | 2026-08-13 | 3 | 4 | 1 | 13 | 1 | 5 |
+| 90d | 2026-07-14 | 3 | 5 | 1 | 15 | 1 | 6 |
+| last180d | 2026-04-15 | 5 | 13 | 1 | 19 | 1 | 18 |
+| 360d | 2025-10-17 | 11 | 35 | 1 | 38 | 1 | 62 |
+| last720d | 2024-10-22 | 13 | 38 | 2 | 66 | 4 | 79 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for sdkman-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T06:47:25Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T07:14:58Z._
