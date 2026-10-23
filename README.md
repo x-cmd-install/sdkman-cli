@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,875 · **Forks**: 648 · **Open issues**: 987 · **Contributors**: 96
+- **Stars**: 6,874 · **Forks**: 648 · **Open issues**: 987 · **Contributors**: 96
 
 ## Totals (cumulative)
 
-- **Releases**: 46 · **Merged PRs**: 253 · **Open PRs**: 21 · **Closed issues**: 910 · **Open issues**: 77 · **Commits**: 1724
+- **Releases**: 46 · **Merged PRs**: 253 · **Open PRs**: 21 · **Closed issues**: 911 · **Open issues**: 76 · **Commits**: 1724
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 0 | 1 | 10 | 1 | 1 |
-| last60d | 2026-08-23 | 3 | 4 | 1 | 16 | 1 | 3 |
-| 90d | 2026-07-24 | 3 | 5 | 1 | 17 | 1 | 6 |
-| last180d | 2026-04-25 | 5 | 13 | 1 | 21 | 1 | 17 |
-| 360d | 2025-10-27 | 11 | 35 | 1 | 41 | 1 | 62 |
-| last720d | 2024-11-01 | 13 | 38 | 2 | 69 | 4 | 79 |
+| 30d | 2026-09-23 | 2 | 0 | 1 | 11 | 0 | 1 |
+| last60d | 2026-08-24 | 3 | 2 | 1 | 16 | 0 | 3 |
+| 90d | 2026-07-25 | 3 | 5 | 1 | 18 | 0 | 6 |
+| last180d | 2026-04-26 | 5 | 13 | 1 | 22 | 0 | 17 |
+| 360d | 2025-10-28 | 11 | 35 | 1 | 42 | 0 | 62 |
+| last720d | 2024-11-02 | 13 | 38 | 2 | 70 | 3 | 79 |
 
 ## Release assets
 
@@ -71,6 +71,10 @@ Lowest-scoring checks:
 |-------|-----:|--------|
 | [checksums_sha256.txt](https://github.com/sdkman/sdkman-cli/releases/download/5.23.2/checksums_sha256.txt) | 88 B | `other` |
 | [sdkman-cli-5.23.2.zip](https://github.com/sdkman/sdkman-cli/releases/download/5.23.2/sdkman-cli-5.23.2.zip) | 27.3 KiB | `other` |
+
+## Distribution status
+
+Reported by **2** distros on [repology.org](https://repology.org/project/sdkman-cli). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -81,4 +85,4 @@ Install metadata for sdkman-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:52:27Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:59:43Z._
