@@ -14,13 +14,13 @@ x install sdkman-cli
 
 ## Code insight
 
-Total: **4,349** lines of code across **83** files in the top 5 languages.
+Total: **4,436** lines of code across **86** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Groovy | 1,803 | 42 | 429 | 31 |
-| Sh | 1,390 | 456 | 334 | 27 |
-| Gherkin | 1,147 | 15 | 189 | 23 |
+| Groovy | 1,812 | 42 | 431 | 32 |
+| Sh | 1,401 | 457 | 336 | 27 |
+| Gherkin | 1,214 | 15 | 204 | 25 |
 | Dockerfile | 7 | 1 | 3 | 1 |
 | Pan | 2 | 1 | 1 | 1 |
 
@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `5.23.2` (2026-10-06)
-- **Last commit**: 2026-09-27
+- **Latest**: `latest` (2026-10-06)
+- **Last commit**: 2026-10-24
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 6,874 · **Forks**: 648 · **Open issues**: 987 · **Contributors**: 96
+- **Stars**: 6,874 · **Forks**: 647 · **Open issues**: 987 · **Contributors**: 96
 
 ## Totals (cumulative)
 
-- **Releases**: 46 · **Merged PRs**: 253 · **Open PRs**: 21 · **Closed issues**: 911 · **Open issues**: 76 · **Commits**: 1724
+- **Releases**: 46 · **Merged PRs**: 254 · **Open PRs**: 21 · **Closed issues**: 911 · **Open issues**: 76 · **Commits**: 1726
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 2 | 0 | 1 | 11 | 0 | 1 |
-| last60d | 2026-08-24 | 3 | 2 | 1 | 16 | 0 | 3 |
-| 90d | 2026-07-25 | 3 | 5 | 1 | 18 | 0 | 6 |
-| last180d | 2026-04-26 | 5 | 13 | 1 | 22 | 0 | 17 |
-| 360d | 2025-10-28 | 11 | 35 | 1 | 42 | 0 | 62 |
-| last720d | 2024-11-02 | 13 | 38 | 2 | 70 | 3 | 79 |
+| 30d | 2026-09-24 | 2 | 1 | 1 | 11 | 0 | 3 |
+| last60d | 2026-08-25 | 3 | 3 | 1 | 15 | 0 | 5 |
+| 90d | 2026-07-26 | 3 | 6 | 1 | 18 | 0 | 8 |
+| last180d | 2026-04-27 | 5 | 14 | 1 | 22 | 0 | 19 |
+| 360d | 2025-10-29 | 11 | 36 | 1 | 42 | 0 | 64 |
+| last720d | 2024-11-03 | 13 | 39 | 2 | 70 | 3 | 81 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for sdkman-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:59:43Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:40:56Z._
