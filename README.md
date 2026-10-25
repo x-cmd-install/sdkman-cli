@@ -42,35 +42,35 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `latest` (2026-10-06)
+- **Latest**: `5.24.0` (2026-10-24)
 - **Last commit**: 2026-10-24
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 6,874 · **Forks**: 647 · **Open issues**: 987 · **Contributors**: 96
+- **Stars**: 6,873 · **Forks**: 647 · **Open issues**: 988 · **Contributors**: 96
 
 ## Totals (cumulative)
 
-- **Releases**: 46 · **Merged PRs**: 254 · **Open PRs**: 21 · **Closed issues**: 911 · **Open issues**: 76 · **Commits**: 1726
+- **Releases**: 47 · **Merged PRs**: 254 · **Open PRs**: 21 · **Closed issues**: 912 · **Open issues**: 76 · **Commits**: 1726
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 2 | 1 | 1 | 11 | 0 | 3 |
-| last60d | 2026-08-25 | 3 | 3 | 1 | 15 | 0 | 5 |
-| 90d | 2026-07-26 | 3 | 6 | 1 | 18 | 0 | 8 |
-| last180d | 2026-04-27 | 5 | 14 | 1 | 22 | 0 | 19 |
-| 360d | 2025-10-29 | 11 | 36 | 1 | 42 | 0 | 64 |
-| last720d | 2024-11-03 | 13 | 39 | 2 | 70 | 3 | 81 |
+| 30d | 2026-09-25 | 3 | 1 | 1 | 11 | 0 | 3 |
+| last60d | 2026-08-26 | 4 | 3 | 1 | 16 | 0 | 5 |
+| 90d | 2026-07-27 | 4 | 6 | 1 | 19 | 0 | 8 |
+| last180d | 2026-04-28 | 6 | 13 | 1 | 23 | 0 | 19 |
+| 360d | 2025-10-30 | 12 | 36 | 1 | 43 | 0 | 64 |
+| last720d | 2024-11-04 | 14 | 39 | 2 | 71 | 3 | 81 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums_sha256.txt](https://github.com/sdkman/sdkman-cli/releases/download/5.23.2/checksums_sha256.txt) | 88 B | `other` |
-| [sdkman-cli-5.23.2.zip](https://github.com/sdkman/sdkman-cli/releases/download/5.23.2/sdkman-cli-5.23.2.zip) | 27.3 KiB | `other` |
+| [checksums_sha256.txt](https://github.com/sdkman/sdkman-cli/releases/download/5.24.0/checksums_sha256.txt) | 88 B | `other` |
+| [sdkman-cli-5.24.0.zip](https://github.com/sdkman/sdkman-cli/releases/download/5.24.0/sdkman-cli-5.24.0.zip) | 27.4 KiB | `other` |
 
 ## Distribution status
 
@@ -85,4 +85,4 @@ Install metadata for sdkman-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:40:56Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:41:17Z._
