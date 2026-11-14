@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,883 · **Forks**: 646 · **Open issues**: 992 · **Contributors**: 96
+- **Stars**: 6,884 · **Forks**: 646 · **Open issues**: 992 · **Contributors**: 96
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 2 | 1 | 0 | 5 | 2 | 2 |
-| last60d | 2026-09-14 | 4 | 1 | 0 | 16 | 2 | 3 |
-| 90d | 2026-08-15 | 4 | 5 | 0 | 20 | 2 | 7 |
-| last180d | 2026-05-17 | 4 | 13 | 0 | 24 | 2 | 17 |
-| 360d | 2025-11-18 | 12 | 36 | 0 | 43 | 2 | 64 |
-| last720d | 2024-11-23 | 14 | 37 | 1 | 71 | 5 | 81 |
+| 30d | 2026-10-15 | 2 | 1 | 0 | 5 | 2 | 0 |
+| last60d | 2026-09-15 | 4 | 1 | 0 | 16 | 2 | 0 |
+| 90d | 2026-08-16 | 4 | 5 | 0 | 20 | 2 | 0 |
+| last180d | 2026-05-18 | 4 | 13 | 0 | 24 | 2 | 0 |
+| 360d | 2025-11-19 | 12 | 36 | 0 | 43 | 2 | 0 |
+| last720d | 2024-11-24 | 14 | 37 | 1 | 71 | 5 | 79 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for sdkman-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T08:09:22Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T08:26:33Z._
