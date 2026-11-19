@@ -24,16 +24,6 @@ Total: **4,436** lines of code across **86** files in the top 5 languages.
 | Dockerfile | 7 | 1 | 3 | 1 |
 | Pan | 2 | 1 | 1 | 1 |
 
-## OpenSSF Scorecard
-
-Overall score: **4.7 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (3/10) — Found 4/13 approved changesets -- score normalized to 3
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Packaging** (-1/10) — packaging workflow not detected
-
 ## Source
 
 - **Upstream**: <https://github.com/sdkman/sdkman-cli>
@@ -48,7 +38,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,886 · **Forks**: 646 · **Open issues**: 992 · **Contributors**: 96
+- **Stars**: 6,887 · **Forks**: 646 · **Open issues**: 992 · **Contributors**: 96
 
 ## Totals (cumulative)
 
@@ -58,12 +48,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 2 | 1 | 0 | 5 | 2 | 2 |
-| last60d | 2026-09-18 | 4 | 1 | 0 | 16 | 2 | 3 |
-| 90d | 2026-08-19 | 4 | 5 | 0 | 20 | 2 | 7 |
-| last180d | 2026-05-21 | 4 | 10 | 0 | 24 | 2 | 16 |
-| 360d | 2025-11-22 | 12 | 36 | 0 | 41 | 2 | 64 |
-| last720d | 2024-11-27 | 14 | 37 | 1 | 70 | 5 | 76 |
+| 30d | 2026-10-20 | 2 | 1 | 0 | 4 | 2 | 2 |
+| last60d | 2026-09-20 | 3 | 1 | 0 | 16 | 2 | 3 |
+| 90d | 2026-08-21 | 4 | 5 | 0 | 20 | 2 | 7 |
+| last180d | 2026-05-23 | 4 | 10 | 0 | 24 | 2 | 16 |
+| 360d | 2025-11-24 | 12 | 36 | 0 | 41 | 2 | 64 |
+| last720d | 2024-11-29 | 14 | 37 | 1 | 70 | 5 | 76 |
 
 ## Release assets
 
@@ -85,4 +75,4 @@ Install metadata for sdkman-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T09:17:56Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T10:18:22Z._
