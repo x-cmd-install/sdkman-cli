@@ -48,12 +48,12 @@ Total: **4,436** lines of code across **86** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 2 | 2 | 0 |
-| last60d | 2026-09-25 | 3 | 1 | 0 | 13 | 2 | 2 |
-| 90d | 2026-08-26 | 4 | 3 | 0 | 18 | 2 | 4 |
-| last180d | 2026-05-28 | 4 | 10 | 0 | 24 | 2 | 16 |
-| 360d | 2025-11-29 | 12 | 36 | 0 | 41 | 2 | 64 |
-| last720d | 2024-12-04 | 14 | 37 | 1 | 69 | 5 | 76 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 2 | 2 | 0 |
+| last60d | 2026-09-26 | 3 | 1 | 0 | 13 | 2 | 2 |
+| 90d | 2026-08-27 | 4 | 2 | 0 | 18 | 2 | 4 |
+| last180d | 2026-05-29 | 4 | 10 | 0 | 23 | 2 | 16 |
+| 360d | 2025-11-30 | 12 | 36 | 0 | 41 | 2 | 64 |
+| last720d | 2024-12-05 | 14 | 37 | 1 | 69 | 5 | 76 |
 
 ## Release assets
 
@@ -61,10 +61,6 @@ Total: **4,436** lines of code across **86** files in the top 5 languages.
 |-------|-----:|--------|
 | [checksums_sha256.txt](https://github.com/sdkman/sdkman-cli/releases/download/5.24.0/checksums_sha256.txt) | 88 B | `other` |
 | [sdkman-cli-5.24.0.zip](https://github.com/sdkman/sdkman-cli/releases/download/5.24.0/sdkman-cli-5.24.0.zip) | 27.4 KiB | `other` |
-
-## Distribution status
-
-Reported by **2** distros on [repology.org](https://repology.org/project/sdkman-cli). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -75,4 +71,4 @@ Install metadata for sdkman-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:44:18Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:03:26Z._
