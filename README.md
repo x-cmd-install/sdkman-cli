@@ -24,6 +24,16 @@ Total: **4,436** lines of code across **86** files in the top 5 languages.
 | Dockerfile | 7 | 1 | 3 | 1 |
 | Pan | 2 | 1 | 1 | 1 |
 
+## OpenSSF Scorecard
+
+Overall score: **4.7 / 10**
+
+Lowest-scoring checks:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (3/10) — Found 4/13 approved changesets -- score normalized to 3
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## Source
 
 - **Upstream**: <https://github.com/sdkman/sdkman-cli>
@@ -38,7 +48,7 @@ Total: **4,436** lines of code across **86** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,890 · **Forks**: 646 · **Open issues**: 992 · **Contributors**: 96
+- **Stars**: 6,891 · **Forks**: 646 · **Open issues**: 992 · **Contributors**: 96
 
 ## Totals (cumulative)
 
@@ -48,12 +58,12 @@ Total: **4,436** lines of code across **86** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 0 | 2 | 2 | 0 |
-| last60d | 2026-09-26 | 3 | 1 | 0 | 13 | 2 | 2 |
-| 90d | 2026-08-27 | 4 | 2 | 0 | 18 | 2 | 4 |
-| last180d | 2026-05-29 | 4 | 10 | 0 | 23 | 2 | 16 |
-| 360d | 2025-11-30 | 12 | 36 | 0 | 41 | 2 | 64 |
-| last720d | 2024-12-05 | 14 | 37 | 1 | 69 | 5 | 76 |
+| 30d | 2026-10-27 | 0 | 0 | 0 | 2 | 2 | 0 |
+| last60d | 2026-09-27 | 3 | 1 | 0 | 12 | 2 | 2 |
+| 90d | 2026-08-28 | 4 | 2 | 0 | 18 | 2 | 4 |
+| last180d | 2026-05-30 | 4 | 10 | 0 | 23 | 2 | 16 |
+| 360d | 2025-12-01 | 12 | 36 | 0 | 41 | 2 | 64 |
+| last720d | 2024-12-06 | 14 | 37 | 1 | 69 | 5 | 76 |
 
 ## Release assets
 
@@ -71,4 +81,4 @@ Install metadata for sdkman-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T10:03:26Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T10:10:04Z._
